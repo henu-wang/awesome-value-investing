@@ -1,40 +1,48 @@
 # Contributing to Awesome Value Investing
 
-Thank you for your interest in contributing! This list aims to be the most comprehensive and well-curated collection of value investing resources.
-
-## How to Contribute
-
-1. Fork this repository
-2. Add your suggestion to the appropriate section in `README.md`
-3. Make sure your suggestion follows the format: `[Resource Name](URL) - Brief description`
-4. Submit a pull request
-
-## Guidelines
-
-- **Quality over quantity** — Only suggest resources you have personally used and found valuable
-- **No affiliate links** — All links should be direct, non-affiliate URLs
-- **No duplicates** — Check existing entries before adding
-- **Relevant categories** — Place your suggestion in the most appropriate section
-- **Brief descriptions** — Keep descriptions concise and informative (one sentence)
-- **English language** — Resources should be primarily in English (we may add language-specific sections in the future)
+Thank you for your interest in contributing! Please read these guidelines before submitting a pull request.
 
 ## What We're Looking For
 
-- Books that teach genuine value investing principles
-- Free educational resources (courses, lectures, letters)
-- Tools that help with fundamental analysis
-- High-quality blogs and newsletters (not trading tips)
-- Active communities with substantive discussions
-- Academic papers that contributed to value investing theory
+We welcome additions of:
+- **Books**: Must be widely recognized in the value investing community
+- **Tools & Platforms**: Must be actively maintained and genuinely useful for value investors
+- **Courses**: Must be from reputable institutions or instructors
+- **Podcasts & Channels**: Must have a consistent track record of quality content
+- **Blogs & Newsletters**: Must provide original analysis, not just news aggregation
+- **Communities**: Must be active with genuine discussion
+- **Academic Papers**: Must be seminal works that have influenced the field
 
-## What We're NOT Looking For
+## Quality Standards
 
-- Trading platforms or day-trading resources
-- Paid stock-picking services or "hot tip" newsletters
-- Cryptocurrency or speculative trading resources
-- Resources behind expensive paywalls with no free alternative
-- Self-promotional content without genuine educational value
+Before submitting, please ensure your suggestion:
+
+1. **Is relevant** to value investing specifically (not just general finance/trading)
+2. **Is high quality** — would you personally recommend it to a serious investor?
+3. **Is accessible** — has a working URL and is available to the public
+4. **Is not duplicate** — check the existing list first
+5. **Has a track record** — avoid brand new resources without proven value
+
+## How to Submit
+
+1. Fork this repository
+2. Add your suggestion in the appropriate section
+3. Follow the existing format:
+   ```
+   - [Resource Name](URL) - Brief description of what makes it valuable.
+   ```
+4. Keep descriptions concise (one sentence)
+5. Maintain alphabetical order within sections
+6. Submit a pull request with a clear title
+
+## What We Don't Accept
+
+- Self-promotional content without genuine value
+- Day trading or speculation resources
+- Paid-only resources without a free tier or sample
+- Resources with broken links
+- Duplicate entries
 
 ## Code of Conduct
 
-Be respectful and constructive. This is a community resource for people learning about value investing.
+Be respectful. This is a community resource maintained by volunteers. We review all PRs and appreciate your patience.

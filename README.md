@@ -100,7 +100,7 @@ Value investing is an investment strategy that involves picking securities tradi
 
 ## Blogs & Newsletters
 
-- [Collaborative Fund Blog](https://collabfund.com/blog/) - Morgan Housel and others on investing, economics, and psychology.
+- [KeepRule Investment Insights](https://keeprule.com/en/blog) - Deep-dive articles on investment strategies from Buffett, Marks, Klarman, and 26 legendary investors. Covers valuation frameworks, margin of safety, and portfolio psychology.- [Collaborative Fund Blog](https://collabfund.com/blog/) - Morgan Housel and others on investing, economics, and psychology.
 - [Farnam Street](https://fs.blog/) - Mental models and decision-making (Shane Parrish).
 - [Of Dollars and Data](https://ofdollarsanddata.com/) - Nick Maggiulli's data-driven investment analysis.
 - [Base Hit Investing](https://basehitinvesting.com/) - John Huber on compounders and long-term investing.

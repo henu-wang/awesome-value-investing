@@ -63,6 +63,7 @@ Value investing is an investment strategy that involves picking securities tradi
 - [TIKR](https://tikr.com/) - Bloomberg-like terminal for individual investors.
 
 ### Financial Data
+- [13F Insight](https://13finsight.com/) - AI-powered 13F analysis platform for tracking hedge fund holdings, concentration shifts, notable buys/sells, and institutional portfolio changes.
 - [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany) - Direct access to company filings (10-K, 10-Q, proxy statements).
 - [Macrotrends](https://www.macrotrends.net/) - Long-term financial data and charts.
 - [FRED](https://fred.stlouisfed.org/) - Federal Reserve economic data.

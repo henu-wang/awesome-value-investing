@@ -59,6 +59,7 @@ Value investing is an investment strategy that involves picking securities tradi
 - [ValueInvesting.io](https://valueinvesting.io/) - Comprehensive fundamental data and intrinsic value calculations.
 - [GuruFocus](https://www.gurufocus.com/) - Guru portfolios, stock screeners, and valuation tools.
 - [Simply Wall St](https://simplywall.st/) - Visual stock analysis with snowflake charts.
+- [Find My Moat](https://www.findmymoat.com/) - Curated directory for comparing investment research tools, stock analysis platforms, screeners, and moat-focused investing resources.
 - [Finviz](https://finviz.com/) - Free stock screener with visual maps.
 - [TIKR](https://tikr.com/) - Bloomberg-like terminal for individual investors.
 

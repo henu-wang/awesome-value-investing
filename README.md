@@ -64,6 +64,7 @@ Value investing is an investment strategy that involves picking securities tradi
 
 ### Financial Data
 - [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany) - Direct access to company filings (10-K, 10-Q, proxy statements).
+- [FilingFirehose](https://filingfirehose.com/) - Free per-ticker SEC forensic risk score (LOW/MODERATE/ELEVATED/HIGH) flagging cyber events, dilution pressure, restatement risk, officer departures, and bankruptcy proximity in 8-K, 10-K, 10-Q, S-3 filings — useful for screening margin-of-safety risk before initiating positions.
 - [Macrotrends](https://www.macrotrends.net/) - Long-term financial data and charts.
 - [FRED](https://fred.stlouisfed.org/) - Federal Reserve economic data.
 

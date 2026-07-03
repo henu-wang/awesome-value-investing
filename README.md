@@ -64,6 +64,7 @@ Value investing is an investment strategy that involves picking securities tradi
 
 ### Financial Data
 - [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany) - Direct access to company filings (10-K, 10-Q, proxy statements).
+- [PortfolioSavvy](https://portfoliosavvy.com/) - Public SEC ownership research for 13F holders, CUSIP ownership history, insider activity, and 13D/G filings.
 - [Macrotrends](https://www.macrotrends.net/) - Long-term financial data and charts.
 - [FRED](https://fred.stlouisfed.org/) - Federal Reserve economic data.
 

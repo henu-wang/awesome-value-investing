@@ -38,6 +38,13 @@ Value investing is an investment strategy that involves picking securities tradi
 - [Mastering the Market Cycle](https://www.harpercollins.com/products/mastering-the-market-cycle-howard-marks) - Howard Marks — Understanding where we stand in market cycles.
 
 ### Behavioral Finance
+
+### Interactive Tools
+
+- [Investor Bias Check](https://ordinarymantrying.com/tools/investor-bias-check.html) - 8-question self-assessment revealing whether you hold positions on logic or emotional attachment. Covers sunk cost fallacy, loss aversion, and anchoring bias.
+- [Buffett Life Simulator](https://ordinarymantrying.com/tools/buffett-simulator.html) - Face Warren Buffett's real career decision points and choose before seeing what he actually did. Teaches behavioral finance through first-hand decisions.
+
+
 - [Thinking, Fast and Slow](https://us.macmillan.com/books/9780374533557/thinkingfastandslow) - Daniel Kahneman — The cognitive biases that affect investment decisions.
 - [Misbehaving](https://wwnorton.com/books/Misbehaving/) - Richard Thaler — Behavioral economics and why markets aren't always rational.
 - [The Psychology of Money](https://www.harriman-house.com/the-psychology-of-money) - Morgan Housel — How behavior matters more than knowledge in investing.

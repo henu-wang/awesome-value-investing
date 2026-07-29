@@ -61,6 +61,7 @@ Value investing is an investment strategy that involves picking securities tradi
 - [Simply Wall St](https://simplywall.st/) - Visual stock analysis with snowflake charts.
 - [Finviz](https://finviz.com/) - Free stock screener with visual maps.
 - [TIKR](https://tikr.com/) - Bloomberg-like terminal for individual investors.
+- [QuantLink](https://www.quantlink.ai) - AI equity research terminal for US stocks with a fundamental and technical stock screener, deep-research agents grounded in SEC filings, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking. Free tier available.
 
 ### Financial Data
 - [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany) - Direct access to company filings (10-K, 10-Q, proxy statements).
